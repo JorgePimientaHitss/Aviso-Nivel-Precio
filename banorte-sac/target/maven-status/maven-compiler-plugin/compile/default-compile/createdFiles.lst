@@ -1,0 +1,13 @@
+RF\Clientes_PruebaResource.class
+RF\TipoTransaccionResource.class
+RF\TipoTransaccionRepository.class
+RF\DivisasRepository.class
+RF\Divisas.class
+RF\DivisasResource.class
+META-INF\panache-archive.marker
+RF\Clientes_PruebaRepository.class
+RF\TipoTransaccion.class
+RF\Clientes_Prueba.class
+com\Banorte\RF09\AvisoNivelPrecioResource.class
+com\Banorte\RF09\AvisoNivelPrecio.class
+com\Banorte\RF09\AvisoNivelPrecioRepository.class

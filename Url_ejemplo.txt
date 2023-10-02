@@ -1,0 +1,7 @@
+
+Quarkus-Navegador
+http://localhost:8585/q/swaggerui/
+
+
+Front
+http://localhost:8585/api/aviso-nivel-precio/listar
